@@ -114,12 +114,12 @@ body {
     padding-top: 10%;
     box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.5);
     height: 100vh;
-    width: 20%;
+    width: 100%;
     transform: translate(-150%);
     display: flex;
     flex-direction: column;
-    margin-left: 10%;
-    padding-left: 10%;
+    margin-left: 0%;
+    padding-left: 0px;
     transition: transform 0.5s ease-in-out;
     text-align: center;
 	outline: none;
