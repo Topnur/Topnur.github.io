@@ -296,11 +296,9 @@ a {
 .hint {
   font-size: 15%; 
 }
-
 #p4 .hint {
   display: inherit !important;
 }
-
 .hint a {
   color: yellow;
   transition: all 250ms ease-out;
@@ -339,15 +337,12 @@ a {
   -o-transition: all .5s cubic-bezier(.25, 1, .5, 1.25);
   
 }
-
 .page#p1 .icon {
   height: 20%;
 }
-
 .page#p1 .icon {
   transform: translateX(10%) !important;
 }
-
 #t2:target .page#p2 .icon,
 #t3:target .page#p3 .icon,
 #t4:target .page#p4 .icon,
