@@ -119,7 +119,7 @@ body {
     display: fixed;
     flex-direction: column;
     margin-left: 0%;
-    padding-left: 0px;
+    padding-left: 0%;
     transition: transform 0.5s ease-in-out;
     text-align: center;
 	outline: none;
