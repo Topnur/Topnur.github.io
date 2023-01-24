@@ -176,7 +176,7 @@ html, body, .page {
 }
 
 .page {
-  position: absolute;
+  position: fixed;
 }
 
 #p1 {
@@ -184,7 +184,7 @@ html, body, .page {
 }
 
 #p2, #p3, #p4, #p5 {
-  left: 20%;
+  left: 200%;
 }
 
 #p1 { background: darkslateblue; }
