@@ -36,6 +36,7 @@ body {
 
 .navbar .menu-items {
     display: flex;
+    background: #fff;
 }
 
 .navbar .nav-container li {
@@ -112,7 +113,7 @@ body {
     padding-top: 120px;
     box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.5);
     height: 100vh;
-    width: 25%;
+    width: 40%;
     transform: translate(-150%);
     display: flex;
     flex-direction: column;
@@ -283,13 +284,13 @@ a {
   display: block;
   
 }
-
+/* Размер заголовка */
 .title {
-  font-size: 38px;
+  font-size: 25%;
 }
-
+/* Размер текста */
 .hint {
-  font-size: 13px;
+  font-size: 15%; 
 }
 
 #p4 .hint {
@@ -318,8 +319,8 @@ a {
   bottom: 0;
   right: 10%;
   left: 0;
-  width: 270px;
-  height: 170px;
+  width: 80%;
+  height: 20%;
   margin: auto;
   text-align: center;
   font-size: 80px;
@@ -335,7 +336,7 @@ a {
 }
 
 .page#p1 .icon {
-  height: 220px;
+  height: 20%;
 }
 
 .page#p1 .icon {
