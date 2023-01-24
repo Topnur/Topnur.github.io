@@ -134,7 +134,7 @@ body {
 .logo {
     position: absolute;
     top: 5px;
-    right: 15px;
+    right: 10%;
     font-size: 1.2rem;
     color: #0e2431;
 }
