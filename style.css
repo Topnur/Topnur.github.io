@@ -14,9 +14,9 @@ body {
 }
 
 .container {
-    max-width: 90%;
-    min-width: 500px;
-    width: 90%;
+    max-width: 100%;
+	min-width: 500px;
+    width: 100%;
     margin: auto;
 }
 
@@ -34,9 +34,9 @@ body {
 }
 
 .navbar .menu-items {
+	 max-width: 100%;
+	min-width: 500px;
     display: flex;
-    max-width: 90%;
-    min-width: 500px;
     background: #fff;
 }
 
@@ -197,7 +197,7 @@ html, body, .page {
 #t3:target #p3,
 #t4:target #p4,
 #t5:target #p5 {
-  transform: translateX(-190%);
+  transform: translateX(190%);
   -webkit-transform: translateX(-190%);
   -moz-transform: translateX(-190%);
   -o-transform: translateX(-190%);
@@ -337,7 +337,7 @@ a {
 }
 
 .page#p1 .icon {
-  height: -200%;
+  height: 20%;
 }
 
 .page#p1 .icon {
