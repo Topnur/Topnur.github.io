@@ -35,6 +35,8 @@ body {
 
 .navbar .menu-items {
     display: flex;
+    max-width: 90%;
+    min-width: 500px;
     background: #fff;
 }
 
