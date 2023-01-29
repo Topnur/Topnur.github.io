@@ -71,9 +71,9 @@ body {
 .wrapper .tooltip::before {
     position: absolute;
     content: "";
-    height: 0px;
+    height: 8px;
     width: 8px;
-    background: #333;
+    background: #ffffff;
     bottom: -3px;
     left: 50%;
     transform: translate(-50%) rotate(45deg);
@@ -81,7 +81,7 @@ body {
 }
 
 .wrapper .icon:hover .tooltip {
-    top: -50px;
+    top: -10%;
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
