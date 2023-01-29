@@ -70,8 +70,8 @@ body {
 .wrapper .tooltip::before {
     position: absolute;
     content: "";
-    height: -8px;
-    width: -8px;
+    height: 18px;
+    width: 18px;
     background: #ffffff;
     bottom: -3px;
     left: 50%;
