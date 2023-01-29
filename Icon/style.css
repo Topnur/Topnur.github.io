@@ -37,7 +37,7 @@ body {
 }
 
 .wrapper .icon {
-    position: relative;
+    position: absolute;
     background: #ffffff;
     border-radius: 50%;
     padding: 7px;
