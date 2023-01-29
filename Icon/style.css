@@ -80,8 +80,8 @@ body {
 }
 
 .wrapper .icon:hover .tooltip {
-    top: 40px;
-    opacity: 10;
+    top: 400px;
+    opacity: 1;
     visibility: visible;
     pointer-events: auto;
 }
