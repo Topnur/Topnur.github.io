@@ -55,7 +55,7 @@ body {
 
 .wrapper .tooltip {
     position: absolute;
-    top: 0;
+    top: 100px;
     font-size: 14px;
     background: #ffffff;
     color: #ffffff;
@@ -76,7 +76,7 @@ body {
     bottom: -3px;
     left: 50%;
     transform: translate(-50%) rotate(45deg);
-    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 2.55);
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
 .wrapper .icon:hover .tooltip {
