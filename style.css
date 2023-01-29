@@ -10,18 +10,16 @@
 
 body {
     font-family: "Poppins", sans-serif;
-	
 }
 
 
 .container {
-    max-width: 100%;
     width: 100%;
     margin: auto;
 }
 
 .navbar {
-    width: 50%;
+    width: 100%;
     box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
     position:fixed; 
 }
@@ -34,7 +32,6 @@ body {
 }
 
 .navbar .menu-items {
-	max-width: 100%;
     display: flex;
     background: #fff;
 	
@@ -42,6 +39,7 @@ body {
 
 .navbar .nav-container li {
     list-style: none;
+	
 }
 
 .navbar .nav-container a {
@@ -51,6 +49,7 @@ body {
     font-size: 1.2rem;
     padding: 0.7rem;
 	left: 20%
+	
 }
 
 .navbar .nav-container li p{
@@ -70,6 +69,7 @@ text-decoration: none;
     display: block;
     position: relative;
     height: 60px;
+	
 }
 
 .nav-container .checkbox {
