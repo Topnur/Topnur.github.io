@@ -70,7 +70,7 @@ body {
 .wrapper .tooltip::before {
     position: absolute;
     content: "";
-    height: 8px;
+    height: 17px;
     width: 8px;
     background: #ffffff;
     bottom: -3px;
@@ -80,7 +80,7 @@ body {
 }
 
 .wrapper .icon:hover .tooltip {
-    top: 400px;
+    top: 40px;
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
