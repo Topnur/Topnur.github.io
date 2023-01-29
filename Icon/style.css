@@ -29,7 +29,7 @@ body {
     font-family: "Poppins", sans-serif;
 
     place-items: center;
-
+    left: 30%
 }
 .wrapper {
     display: inline-flex;
@@ -81,7 +81,7 @@ body {
 }
 
 .wrapper .icon:hover .tooltip {
-    top: -40px;
+    top: 40px;
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
