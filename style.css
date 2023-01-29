@@ -172,6 +172,10 @@ text-decoration: none;
 .nav-container input[type="checkbox"]:checked ~ .logo {
     display: none;
 }
+
+.nav-container input[type="checkbox"]:checked ~ .menu-items {
+    display: none;
+}
 html, body, .page {
   width: 100%;
   height: 100%;
