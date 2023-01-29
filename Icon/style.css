@@ -20,7 +20,7 @@ html,
 body {
     display: grid;
     height: 100%;
-    width: 50%;
+    
     font-family: "Poppins", sans-serif;
     place-items: center;
 }
