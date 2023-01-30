@@ -121,6 +121,7 @@ text-decoration: none;
 }
 
 .navbar .menu-items {
+    overflow: scroll;
     padding-top: 20%;
     box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.5);
     height: 100vh;
