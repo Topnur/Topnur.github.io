@@ -1,6 +1,7 @@
 /*
     Auther: Abdelrhman Said
 */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 html,
 body {
 
@@ -13,9 +14,31 @@ body {
 }
 
 .form-field .title-form {
-	    font-size: 30px;
+	font-size: 30px;
 
 }
+
+.form-field .what{
+	color:#25D366;
+}
+
+.form-field .inst{
+	background: linear-gradient(45deg, #fdf497 0%, #fd5949 50%, #285AEB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0B2349;
+}
+
+.form-field .online{
+  background: linear-gradient(45deg, #0B2349 33%, #0D61BC 66%, #8AA9D6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0B2349;
+}
+.form-field .love{
+  color: red;
+}
+
 .form-field .title-sub {
 	font-size: 15px;
 	width: 100%;
@@ -53,7 +76,7 @@ body {
   padding: 0;
   border: none;
   background: rgb(255,27,0);
-background: linear-gradient(0deg, #36096D 0%, #37D5D6 100%);
+  background: linear-gradient(0deg, #36096D 0%, #37D5D6 100%);
 }
 .btn-line:hover {
   color: #f0094a;
