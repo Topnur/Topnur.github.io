@@ -13,12 +13,17 @@ body {
 }
 
 .form-field .title-form {
-	    font-size: 40px;
+	    font-size: 30px;
 
 }
 .form-field .title-sub {
-	    font-size: 20px;
-
+	font-size: 20px;
+	width: 50%;
+	text-align: center;
+    display: block;
+	margin-left: auto;
+    margin-right: auto;
+	
 }
 
 .btn {
@@ -38,21 +43,23 @@ body {
    7px 7px 20px 0px rgba(0,0,0,.1),
    4px 4px 5px 0px rgba(0,0,0,.1);
   outline: none;
+  text-decoration: none;
 }
 
 .btn-line {
-  width: 100%;
+  width: 20%;
   height: 40px;
   line-height: 42px;
   padding: 0;
   border: none;
   background: rgb(255,27,0);
-background: linear-gradient(0deg, rgba(255,27,0,1) 0%, rgba(251,75,2,1) 100%);
+background: linear-gradient(0deg, #36096D 0%, #37D5D6 100%);
 }
 .btn-line:hover {
   color: #f0094a;
   background: transparent;
    box-shadow:none;
+   
 }
 .btn-line:before,
 .btn-line:after{
@@ -74,6 +81,7 @@ background: linear-gradient(0deg, rgba(255,27,0,1) 0%, rgba(251,75,2,1) 100%);
   top:inherit;
   left:0;
   bottom:0;
+  
 }
 .btn-line:hover:before,
 .btn-line:hover:after{
