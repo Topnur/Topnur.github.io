@@ -69,7 +69,7 @@ text-decoration: none;
     display: block;
     position: relative;
     height: 60px;
-	
+    background: #fff;
 }
 
 .nav-container .checkbox {
