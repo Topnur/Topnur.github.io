@@ -18,7 +18,7 @@ body {
 }
 .form-field .title-sub {
 	font-size: 15px;
-	width: 800px;
+	width: 100%;
 	text-align: center;
     display: block;
 	margin-left: auto;
