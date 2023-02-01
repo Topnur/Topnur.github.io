@@ -8,7 +8,7 @@ body {
     display: grid;
     height: 80%;
     width: 100%;
-    font-family: "FreeMono", monospace;
+    font-family: "Arial", sans-serif;
     place-items: center;
 	text-align: center;
 }
